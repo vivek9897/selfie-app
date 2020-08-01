@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap');
+
+
+p {
+    padding: 20px;
+    background-image: url(https://images.unsplash.com/photo-1522860747050-bb0c1af38ae9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+    background-size: cover;
+  }
+#me h1{
+   text-align:center;
+   border: 1px solid whitesmoke;
+  font-size: 50px;
+  font-family: 'Rowdies', cursive;
+
+ } 
